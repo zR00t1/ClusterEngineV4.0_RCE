@@ -8,8 +8,12 @@
 ### 工具使用
 
 只需要输入http://ip:port 即可进行漏洞检测
+
+
 ![image](https://user-images.githubusercontent.com/46400438/114844618-8d75c080-9e0d-11eb-9b9c-443789279c23.png)
 
 执行命令则需要同时输入url、nodeid、cmd可以
+
+
 ![image](https://user-images.githubusercontent.com/46400438/114844841-c3b34000-9e0d-11eb-910f-fd38e5f1077b.png)
 ![image](https://user-images.githubusercontent.com/46400438/114844905-d594e300-9e0d-11eb-9856-69794d18822c.png)
